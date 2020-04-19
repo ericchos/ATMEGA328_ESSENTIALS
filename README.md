@@ -17,8 +17,8 @@ To use this project, clone this repository and open this project with Atmel Stud
 Sample code for each ATmega328 peripheral is under the "mcu" folder each with it's own .c and .h file.
 To use the functions from each of the peripherals include the files in "main.c". 
 
-'''
+```
 #include "adc.h" // To use the ADC files
 #include "wdt.h" 
 // And etc...
-'''
+```
