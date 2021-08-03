@@ -3,7 +3,8 @@ Code base for the ATMEGA 328 MCU peripherals.
 I made this for those who want to program the ATmega328 without using Arduino IDE.
 Use this as a cheatsheet so you can write your own embedded applications in C.
 
-Included Peripherals
+Included Peripherals all located in <strong>mcu</strong>/ folder:
+https://github.com/ericchos/ATMEGA328_ESSENTIALS/tree/master/mcu
 - GPIO
 - ADC
 - Watchdog Timer
